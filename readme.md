@@ -228,3 +228,8 @@ Every day follow this structure:
 3️⃣ **Interview Questions (Speak aloud)** (30 min)
 
 ---
+
+### learn and practice
+
+1. what is python.
+2. get(), enumarate(), copy(), append(), extend(), set(), isinstance()
