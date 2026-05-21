@@ -1,5 +1,65 @@
 # 🐍 Python Interview Preparation Roadmap (30 Days)
 
+1️⃣ Python Interview Roadmap (Beginner → Interview-Ready)
+
+```bash
+This roadmap is NOT tutorial-style — it’s interview-focused.
+
+🧠 Core Python (VERY IMPORTANT)
+Variables & data types
+int, float, str, bool
+Type conversion
+Input / Output
+
+📦 Data Structures (TOP INTERVIEW AREA)
+List
+Tuple
+Set
+Dictionary
+Mutability vs Immutability
+Shallow vs Deep copy
+
+🔁 Control Flow
+if / elif / else
+for loop
+while loop
+break, continue, pass
+🔧 Functions
+def
+Parameters vs arguments
+*args, **kwargs
+Default arguments
+Return vs print
+Lambda functions
+
+🧵 OOP (VERY IMPORTANT)
+Class & object
+__init__
+Instance vs class variable
+Inheritance
+Polymorphism
+Encapsulation
+@staticmethod, @classmethod
+
+📁 Files & Modules
+File read/write
+import, from
+__name__ == "__main__"
+
+⚠️ Exception Handling
+try-except
+finally
+Custom exceptions
+
+🚀 Advanced Python (Interview Favorite)
+List / dict comprehensions
+Generators
+Iterators
+Decorators (basic idea)
+with statement
+async def vs def
+```
+
 ## Every Morning(6am-8am)
 
 This repository is a **complete Python interview preparation roadmap** designed for:
