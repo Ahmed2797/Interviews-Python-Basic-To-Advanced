@@ -33,3 +33,6 @@
     Feature Engineering
     Model Evaluation (accuracy, precision, recall)
 
+study every day:
+
+1. Linear Regression
